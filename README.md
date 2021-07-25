@@ -5,4 +5,4 @@ Students can interact with current students and alumni's through the currently i
 
 The web application was built using HTML, CSS, Bootstrap and JavaScript for the user interface. To route the different pages, the Flask framework was used in the back-end and to store the username data, SQLite3 was used.
 
-Visit this link, https://devpost.com/software/unibots for more details on the project.
+Visit the link, https://devpost.com/software/unibots for more details on the project.
